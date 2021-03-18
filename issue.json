@@ -1,0 +1,250 @@
+{
+    "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+    "id": "10001",
+    "self": "https://hemalihshah.atlassian.net/rest/api/2/issue/10001",
+    "key": "PTL-2",
+    "fields": {
+        "statuscategorychangedate": "2021-02-18T17:39:03.143-0500",
+        "issuetype": {
+            "self": "https://hemalihshah.atlassian.net/rest/api/2/issuetype/10002",
+            "id": "10002",
+            "description": "A small, distinct piece of work.",
+            "iconUrl": "https://hemalihshah.atlassian.net/secure/viewavatar?size=medium&avatarId=10318&avatarType=issuetype",
+            "name": "Task",
+            "subtask": false,
+            "avatarId": 10318
+        },
+        "timespent": null,
+        "project": {
+            "self": "https://hemalihshah.atlassian.net/rest/api/2/project/10000",
+            "id": "10000",
+            "key": "PTL",
+            "name": "Prime Time Leasing",
+            "projectTypeKey": "software",
+            "simplified": false,
+            "avatarUrls": {
+                "48x48": "https://hemalihshah.atlassian.net/secure/projectavatar?pid=10000&avatarId=10421",
+                "24x24": "https://hemalihshah.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10421",
+                "16x16": "https://hemalihshah.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10421",
+                "32x32": "https://hemalihshah.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10421"
+            }
+        },
+        "fixVersions": [],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+            "self": "https://hemalihshah.atlassian.net/rest/api/2/issue/PTL-2/watchers",
+            "watchCount": 1,
+            "isWatching": true
+        },
+        "lastViewed": "2021-03-11T12:04:13.914-0500",
+        "issuerestriction": {
+            "issuerestrictions": {},
+            "shouldDisplay": false
+        },
+        "created": "2021-02-18T17:39:02.756-0500",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "customfield_10023": null,
+        "priority": {
+            "self": "https://hemalihshah.atlassian.net/rest/api/2/priority/3",
+            "iconUrl": "https://hemalihshah.atlassian.net/images/icons/priorities/medium.svg",
+            "name": "Medium",
+            "id": "3"
+        },
+        "customfield_10024": null,
+        "customfield_10025": null,
+        "labels": [],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+            "hasEpicLinkFieldDependency": false,
+            "showField": false,
+            "nonEditableReason": {
+                "reason": "PLUGIN_LICENSE_ERROR",
+                "message": "The Parent Link is only available to Jira Premium users."
+            }
+        },
+        "customfield_10019": "0|i00007:",
+        "aggregatetimeoriginalestimate": null,
+        "timeestimate": null,
+        "versions": [],
+        "issuelinks": [],
+        "assignee": null,
+        "updated": "2021-03-04T21:19:28.003-0500",
+        "status": {
+            "self": "https://hemalihshah.atlassian.net/rest/api/2/status/10000",
+            "description": "",
+            "iconUrl": "https://hemalihshah.atlassian.net/",
+            "name": "To Do",
+            "id": "10000",
+            "statusCategory": {
+                "self": "https://hemalihshah.atlassian.net/rest/api/2/statuscategory/2",
+                "id": 2,
+                "key": "new",
+                "colorName": "blue-gray",
+                "name": "To Do"
+            }
+        },
+        "components": [],
+        "timeoriginalestimate": null,
+        "description": "Description",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "timetracking": {},
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "security": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "summary": "Summary",
+        "creator": {
+            "self": "https://hemalihshah.atlassian.net/rest/api/2/user?accountId=557058%3A709fa584-191d-4190-b984-ec3e79290619",
+            "accountId": "557058:709fa584-191d-4190-b984-ec3e79290619",
+            "emailAddress": "hemalihshah@gmail.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                "24x24": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                "16x16": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                "32x32": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png"
+            },
+            "displayName": "Hemali Shah",
+            "active": true,
+            "timeZone": "America/New_York",
+            "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "reporter": {
+            "self": "https://hemalihshah.atlassian.net/rest/api/2/user?accountId=557058%3A709fa584-191d-4190-b984-ec3e79290619",
+            "accountId": "557058:709fa584-191d-4190-b984-ec3e79290619",
+            "emailAddress": "hemalihshah@gmail.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                "24x24": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                "16x16": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                "32x32": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png"
+            },
+            "displayName": "Hemali Shah",
+            "active": true,
+            "timeZone": "America/New_York",
+            "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+            "progress": 0,
+            "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+            "progress": 0,
+            "total": 0
+        },
+        "votes": {
+            "self": "https://hemalihshah.atlassian.net/rest/api/2/issue/PTL-2/votes",
+            "votes": 0,
+            "hasVoted": false
+        },
+        "comment": {
+            "comments": [
+                {
+                    "self": "https://hemalihshah.atlassian.net/rest/api/2/issue/10001/comment/10003",
+                    "id": "10003",
+                    "author": {
+                        "self": "https://hemalihshah.atlassian.net/rest/api/2/user?accountId=557058%3A709fa584-191d-4190-b984-ec3e79290619",
+                        "accountId": "557058:709fa584-191d-4190-b984-ec3e79290619",
+                        "emailAddress": "hemalihshah@gmail.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                            "24x24": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                            "16x16": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                            "32x32": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png"
+                        },
+                        "displayName": "Hemali Shah",
+                        "active": true,
+                        "timeZone": "America/New_York",
+                        "accountType": "atlassian"
+                    },
+                    "body": "It is time to finish this task",
+                    "updateAuthor": {
+                        "self": "https://hemalihshah.atlassian.net/rest/api/2/user?accountId=557058%3A709fa584-191d-4190-b984-ec3e79290619",
+                        "accountId": "557058:709fa584-191d-4190-b984-ec3e79290619",
+                        "emailAddress": "hemalihshah@gmail.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                            "24x24": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                            "16x16": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                            "32x32": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png"
+                        },
+                        "displayName": "Hemali Shah",
+                        "active": true,
+                        "timeZone": "America/New_York",
+                        "accountType": "atlassian"
+                    },
+                    "created": "2021-03-04T21:19:27.869-0500",
+                    "updated": "2021-03-04T21:19:27.869-0500",
+                    "jsdPublic": true
+                },
+                {
+                    "self": "https://hemalihshah.atlassian.net/rest/api/2/issue/10001/comment/10003",
+                    "id": "10003",
+                    "author": {
+                        "self": "https://hemalihshah.atlassian.net/rest/api/2/user?accountId=557058%3A709fa584-191d-4190-b984-ec3e79290619",
+                        "accountId": "557058:709fa584-191d-4190-b984-ec3e79290619",
+                        "emailAddress": "hemalihshah@gmail.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                            "24x24": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                            "16x16": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                            "32x32": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png"
+                        },
+                        "displayName": "Hemali Shah",
+                        "active": true,
+                        "timeZone": "America/New_York",
+                        "accountType": "atlassian"
+                    },
+                    "body": "It is time to finish this task",
+                    "updateAuthor": {
+                        "self": "https://hemalihshah.atlassian.net/rest/api/2/user?accountId=557058%3A709fa584-191d-4190-b984-ec3e79290619",
+                        "accountId": "557058:709fa584-191d-4190-b984-ec3e79290619",
+                        "emailAddress": "hemalihshah@gmail.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                            "24x24": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                            "16x16": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png",
+                            "32x32": "https://secure.gravatar.com/avatar/e76446f055f7e7a2b9861d2236f35565?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHS-2.png"
+                        },
+                        "displayName": "Hemali Shah",
+                        "active": true,
+                        "timeZone": "America/New_York",
+                        "accountType": "atlassian"
+                    },
+                    "created": "2021-03-04T21:19:27.869-0500",
+                    "updated": "2021-03-04T21:19:27.869-0500",
+                    "jsdPublic": true
+                }
+            ],
+            "self": "https://hemalihshah.atlassian.net/rest/api/2/issue/10001/comment",
+            "maxResults": 1,
+            "total": 1,
+            "startAt": 0
+        },
+        "worklog": {
+            "startAt": 0,
+            "maxResults": 20,
+            "total": 0,
+            "worklogs": []
+        }
+    }
+}
